@@ -24,3 +24,5 @@ filelock==3.19.1
 
 # Networking
 urllib3_secure_extra==0.1.0
+
+gunicorn==21.2.0
